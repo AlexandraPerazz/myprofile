@@ -1,0 +1,61 @@
+body{
+	text-align: center;
+	color: black;
+	border: 1px solid #BF9270;
+	margin: 0;
+	background-color: #BF9270;
+	background-image: url("https://www.uzes-pontdugard.com/wp-content/uploads/2021/04/Destination-Pays-d-Uzes-Pont-du-Gard-Pixabay-Plage-1600x900.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+h1{
+	margin: 10px 10%;
+	border-radius: 7px;
+	width: 400px;
+	color: #725743;
+
+}
+
+div{
+	margin: 5%;
+	color: #BF9270;
+	background: #FFEDDB;
+}
+
+ul{
+	width: 20px;
+	margin-left: 155px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+
+}
+
+a:hover{
+	color: #60A9D4;
+}
+
+#image{
+	width: 350px;
+	border-radius: 50%;
+}
+
+.container{
+	border: 1px solid #BF9270;
+	margin: 20px 30%;
+	box-shadow: 5px 5px 6px gray;
+	padding: 25px;
+}
+
+.text-design{
+	width: 500px;
+}
+
+.list-inline{
+	display: inline;
+	padding: 10px;
+	font-size: 50px;
+}
